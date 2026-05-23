@@ -1,3 +1,3 @@
-# Intellistra-Education
+# education-erp
 
 Education ERP — powered by APPNEURAL
